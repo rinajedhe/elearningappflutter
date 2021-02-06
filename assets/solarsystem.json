@@ -1,0 +1,25 @@
+[
+    {
+        "1": "How many Planets are there in solar system ?",
+        "2": "Which Planet is known as Red Planet ?"
+      
+    },
+    {
+        "1": {
+            "a": "4",
+            "b": "8",
+            "c": "7",
+            "d": "6"
+        },
+        "2": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Mars",
+            "d": "Jupiter"
+        }
+    },
+    {
+        "1": "8",
+        "2": "Mars"
+    }
+]
